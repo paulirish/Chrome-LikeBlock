@@ -1,0 +1,17 @@
+{
+"update_url":"http://clients2.google.com/service/update2/crx",
+   "content_scripts": [ {
+      "exclude_globs": [  ],
+      "include_globs": [ "http://*" ],
+      "js": [ "blocker.js" ],
+      "run_at" : "document_end",
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "converted_from_user_script": true,
+   "description": "Blocks Facebook Like buttons",
+   "icons": {
+      "128": "icon128.png"
+    },
+   "name": "LikeBlock",
+   "version": "0.1.1"
+}
