@@ -3,7 +3,7 @@
    "content_scripts": [ {
       "exclude_globs": [  ],
       "include_globs": [ "http://*" ],
-      "js": [ "blocker.js" ],
+      "js": [ "likeblock.user.js" ],
       "run_at" : "document_end",
       "matches": [ "http://*/*", "https://*/*" ]
    } ],
