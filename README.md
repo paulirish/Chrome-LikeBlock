@@ -15,7 +15,7 @@ Install here (extra points for pronouncing the URL)
 #### [https://chrome.google.com/extensions/detail/kdlggbdofhjlkfhcfdchmkjjbnkamhpb/](https://chrome.google.com/extensions/detail/kdlggbdofhjlkfhcfdchmkjjbnkamhpb/ )
 
 
-You can also install it as a *greasemonkey script in Firefox* by opening the `likeblock.user.js`
+You can also install it as a *greasemonkey script in Firefox* by renaming `likeblock.js` to `likeblock.user.js` and opening in FF.
 
 
 
